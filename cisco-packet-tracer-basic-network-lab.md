@@ -29,12 +29,12 @@ This lab reinforces foundational networking concepts required for CCNA and Netwo
 ### 🔹 Logical Topology
 
 > Insert screenshot here  
-> Example path: `/Logical(Cisco Packet tracer).png`
+> Example path: `/image/Logical(Cisco Packet tracer).png`
 
 ### 🔹 Physical Topology
 
 > Insert screenshot here  
-> Example path: `/physical.png`
+> Example path: `/image/physical.png`
 
 ---
 
